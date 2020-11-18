@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 3198bd1ee18cebe488e01a9759edda33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7925910488200902382
+    second: shinning_animation_0
+  - first:
+      213: 39049311451989366
+    second: shinning_animation_1
+  - first:
+      213: 317411360198008224
+    second: shinning_animation_2
+  - first:
+      213: 1359027002097670437
+    second: shinning_animation_3
+  - first:
+      213: 4188212427837971201
+    second: shinning_animation_4
+  - first:
+      213: 598369224356069701
+    second: shinning_animation_5
+  - first:
+      213: -1475884106665992350
+    second: shinning_animation_6
+  - first:
+      213: 6988173348665916078
+    second: shinning_animation_7
+  - first:
+      213: 957478574574413443
+    second: shinning_animation_8
+  - first:
+      213: 161288868782236945
+    second: shinning_animation_9
+  - first:
+      213: -1303218643641095185
+    second: shinning_animation_10
+  - first:
+      213: -7125067528008833414
+    second: shinning_animation_11
+  - first:
+      213: 8308564580814687452
+    second: shinning_animation_12
+  - first:
+      213: -3485100220301892755
+    second: shinning_animation_13
+  - first:
+      213: -6417207805408082334
+    second: shinning_animation_14
+  - first:
+      213: -712752604609226231
+    second: shinning_animation_15
+  - first:
+      213: -8008861287166053425
+    second: shinning_animation_16
+  - first:
+      213: 3641261527400179235
+    second: shinning_animation_17
+  - first:
+      213: 5013160267697422623
+    second: shinning_animation_18
+  - first:
+      213: -7642049010240368597
+    second: shinning_animation_19
+  - first:
+      213: -4122384248658932910
+    second: shinning_animation_20
+  - first:
+      213: 5579212069852253974
+    second: shinning_animation_21
+  - first:
+      213: -7701303424790533291
+    second: shinning_animation_22
+  - first:
+      213: 5336667188370454485
+    second: shinning_animation_23
+  - first:
+      213: 3971985169692283383
+    second: shinning_animation_24
+  - first:
+      213: 667071131957690116
+    second: shinning_animation_25
+  - first:
+      213: 4143528960763888209
+    second: shinning_animation_26
+  - first:
+      213: -8320794369719614414
+    second: shinning_animation_27
+  - first:
+      213: -2938844152702697992
+    second: shinning_animation_28
+  - first:
+      213: 3327870457962562075
+    second: shinning_animation_29
+  - first:
+      213: 4970208498728682281
+    second: shinning_animation_30
+  - first:
+      213: -500996015174450934
+    second: shinning_animation_31
+  - first:
+      213: 204244172017917682
+    second: shinning_animation_32
+  - first:
+      213: -2732123640980741441
+    second: shinning_animation_33
+  - first:
+      213: -1188864260833187952
+    second: shinning_animation_34
+  - first:
+      213: 2574215811112020328
+    second: shinning_animation_35
+  - first:
+      213: -2382722013137965481
+    second: shinning_animation_36
+  - first:
+      213: 4661030202534704979
+    second: shinning_animation_37
+  - first:
+      213: -2730601947871065813
+    second: shinning_animation_38
+  - first:
+      213: 1405792453370888647
+    second: shinning_animation_39
+  - first:
+      213: -8846926938989351292
+    second: shinning_animation_40
+  - first:
+      213: -5394266146618019120
+    second: shinning_animation_41
+  - first:
+      213: -5244428289077791270
+    second: shinning_animation_42
+  - first:
+      213: -5251305253557185981
+    second: shinning_animation_43
+  - first:
+      213: 680303812941531203
+    second: shinning_animation_44
+  - first:
+      213: 6130383361985739542
+    second: shinning_animation_45
+  - first:
+      213: -4751044983169161621
+    second: shinning_animation_46
+  - first:
+      213: -1217872052519412124
+    second: shinning_animation_47
+  - first:
+      213: -8718429537401631591
+    second: shinning_animation_48
+  - first:
+      213: -6942173475754997051
+    second: shinning_animation_49
+  - first:
+      213: -767507986603251767
+    second: shinning_animation_50
+  - first:
+      213: 629323918825199457
+    second: shinning_animation_51
+  - first:
+      213: 6583312465172184860
+    second: shinning_animation_52
+  - first:
+      213: -4186924654671514432
+    second: shinning_animation_53
+  - first:
+      213: -3294100483397430642
+    second: shinning_animation_54
+  - first:
+      213: -8068882225283992210
+    second: shinning_animation_55
+  - first:
+      213: 7596954553844624227
+    second: shinning_animation_56
+  - first:
+      213: -6015990964694644041
+    second: shinning_animation_57
+  - first:
+      213: -1778592445923308717
+    second: shinning_animation_58
+  - first:
+      213: 4287797375136759096
+    second: shinning_animation_59
+  - first:
+      213: 1162457591264894333
+    second: shinning_animation_60
+  - first:
+      213: 6933599434046671450
+    second: shinning_animation_61
+  - first:
+      213: -2260546106522524884
+    second: shinning_animation_62
+  - first:
+      213: -4784736102037250562
+    second: shinning_animation_63
+  - first:
+      213: -4536449805750169430
+    second: shinning_animation_64
+  - first:
+      213: 4070230950568383797
+    second: shinning_animation_65
+  - first:
+      213: -4740561273761983788
+    second: shinning_animation_66
+  - first:
+      213: -5925381265119216902
+    second: shinning_animation_67
+  - first:
+      213: 7286137868105507320
+    second: shinning_animation_68
+  - first:
+      213: 2259919690476169769
+    second: shinning_animation_69
+  - first:
+      213: 7225504708835218275
+    second: shinning_animation_70
+  - first:
+      213: 6824800691024766019
+    second: shinning_animation_71
+  - first:
+      213: 3803732748433725109
+    second: shinning_animation_72
+  - first:
+      213: 8232715088088234390
+    second: shinning_animation_73
+  - first:
+      213: -7156939153875386459
+    second: shinning_animation_74
+  - first:
+      213: 7708102708943898523
+    second: shinning_animation_75
+  - first:
+      213: 7078621479841000205
+    second: shinning_animation_76
+  - first:
+      213: -8774111199749006465
+    second: shinning_animation_77
+  - first:
+      213: -5611838815899993420
+    second: shinning_animation_78
+  - first:
+      213: -1130159769197715520
+    second: shinning_animation_79
+  - first:
+      213: 9191269227098630702
+    second: shinning_animation_80
+  - first:
+      213: 6530477566639094106
+    second: shinning_animation_81
+  - first:
+      213: 2312895900585036596
+    second: shinning_animation_82
+  - first:
+      213: -5912335052676559179
+    second: shinning_animation_83
+  - first:
+      213: -6616952569066720785
+    second: shinning_animation_84
+  - first:
+      213: 1425196143247964918
+    second: shinning_animation_85
+  - first:
+      213: 8317339007620525082
+    second: shinning_animation_86
+  - first:
+      213: -2813262546826310742
+    second: shinning_animation_87
+  - first:
+      213: 327934666649874561
+    second: shinning_animation_88
+  - first:
+      213: 4189367035201067194
+    second: shinning_animation_89
+  - first:
+      213: 4684521155695828621
+    second: shinning_animation_90
+  - first:
+      213: -3714682743779122335
+    second: shinning_animation_91
+  - first:
+      213: 5571175784166871498
+    second: shinning_animation_92
+  - first:
+      213: -83515969715883633
+    second: shinning_animation_93
+  - first:
+      213: 5477366922729318723
+    second: shinning_animation_94
+  - first:
+      213: 6197141017774538918
+    second: shinning_animation_95
+  - first:
+      213: 7237296368807566345
+    second: shinning_animation_96
+  - first:
+      213: 6868818523175176306
+    second: shinning_animation_97
+  - first:
+      213: 5792044413428717995
+    second: shinning_animation_98
+  - first:
+      213: 1014159103326458986
+    second: shinning_animation_99
+  - first:
+      213: -1400566822636903753
+    second: shinning_animation_100
+  - first:
+      213: -5439052992900135730
+    second: shinning_animation_101
+  - first:
+      213: -5481376783685031185
+    second: shinning_animation_102
+  - first:
+      213: 2700446382329218378
+    second: shinning_animation_103
+  - first:
+      213: 1377246012827519726
+    second: shinning_animation_104
+  - first:
+      213: -2987563594040933090
+    second: shinning_animation_105
+  - first:
+      213: 8592412603595641651
+    second: shinning_animation_106
+  - first:
+      213: 7678459564705862809
+    second: shinning_animation_107
+  - first:
+      213: -2616255868833660012
+    second: shinning_animation_108
+  - first:
+      213: -4981264813294583686
+    second: shinning_animation_109
+  - first:
+      213: 2332621138305153840
+    second: shinning_animation_110
+  - first:
+      213: 7120542815349479176
+    second: shinning_animation_111
+  - first:
+      213: -4433600841210069790
+    second: shinning_animation_112
+  - first:
+      213: -4820062438333449822
+    second: shinning_animation_113
+  - first:
+      213: 7436039563307355580
+    second: shinning_animation_114
+  - first:
+      213: 4069492443759251242
+    second: shinning_animation_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shinning_animation_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 587
+        width: 161
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c1d1542bba8000800000000000000
+      internalID: 39049311451989366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 592
+        width: 154
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad964c43fba76400800000000000000
+      internalID: 317411360198008224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 573
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291234abdb3cd210800000000000000
+      internalID: 1359027002097670437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 312
+        width: 197
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b982553058f1a30800000000000000
+      internalID: 4188212427837971201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 310
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410546a3a5dd4800800000000000000
+      internalID: 598369224356069701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 247
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f578c793b948be0800000000000000
+      internalID: -1475884106665992350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 323
+        width: 238
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa751cb2aafaf060800000000000000
+      internalID: 6988173348665916078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 321
+        width: 219
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3862e8dc0b5a94d00800000000000000
+      internalID: 957478574574413443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 85
+        width: 205
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb2b116c890aede0800000000000000
+      internalID: -1303218643641095185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinning_animation_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 86
+        width: 225
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ec5065dcae1d90800000000000000
+      internalID: -7125067528008833414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
