@@ -14,7 +14,7 @@ namespace Platformer.Mechanics
     /// </summary>
     public class PlayerController : KinematicObject
     {
-      
+        static public bool canJumpTrampoline=false;
         public AudioClip jumpAudio;
         public AudioClip respawnAudio;
         public AudioClip ouchAudio;
@@ -54,16 +54,18 @@ namespace Platformer.Mechanics
 
         protected override void Update()
         {
+
+            if (canJumpTrampoline)//trampoline effect
+            {
+                velocity.y = 14;
+                canJumpTrampoline = false;
+            }
             if (controlEnabled)
             {
                 move.x = Input.GetAxis("Horizontal");
                 if (jumpState == JumpState.Grounded && Input.GetButtonDown("Jump"))
                     jumpState = JumpState.PrepareToJump;
-                else if (Input.GetButtonUp("Jump"))
-                {
-                    stopJump = true;
-                    Schedule<PlayerStopJump>().player = this;
-                }
+                
             }
             else
             {
@@ -129,7 +131,14 @@ namespace Platformer.Mechanics
 
             targetVelocity = move * maxSpeed;
         }
+      
+                
+               
 
+
+            
+        
+       
         public enum JumpState
         {
             Grounded,

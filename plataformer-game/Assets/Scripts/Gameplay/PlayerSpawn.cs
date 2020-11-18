@@ -10,6 +10,8 @@ namespace Platformer.Gameplay
     /// <summary>
     /// Fired when the player is spawned after dying.
     /// </summary>
+    /// 
+    
     public class PlayerSpawn : Simulation.Event<PlayerSpawn>
     {
 

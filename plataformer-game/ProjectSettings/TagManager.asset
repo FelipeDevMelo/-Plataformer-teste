@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - playerCheck
+  - trampolim
   layers:
   - Default
   - TransparentFX
