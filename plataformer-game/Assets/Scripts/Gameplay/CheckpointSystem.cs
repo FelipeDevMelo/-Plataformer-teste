@@ -21,7 +21,7 @@ public class CheckpointSystem : MonoBehaviour
         yield return new WaitForSeconds(20f* Time.deltaTime);
         Destroy(tempPrefab);
         Destroy(this.gameObject);
-    }//lifeTime of the animation
+    }//lifeTime of the animation and flag.
     private void Start()
     {
         audioSrc = GetComponent<AudioSource>();
