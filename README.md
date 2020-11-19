@@ -1,4 +1,4 @@
 # Manifesto-Plataformer-teste
-Teste para empresa de jogos Manifesto.
+Teste para estudio de jogos Manifesto.
 
-test for the game company Manifesto.
+test for the game studio Manifesto.
