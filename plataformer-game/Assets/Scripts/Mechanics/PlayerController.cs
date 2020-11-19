@@ -42,6 +42,9 @@ namespace Platformer.Mechanics
         readonly PlatformerModel model = Simulation.GetModel<PlatformerModel>();
 
         public Bounds Bounds => collider2d.bounds;
+        /// <summary>
+        /// toutch controls
+        /// </summary>
         public void TouchLeft()
         {
             axis=-1;
@@ -55,13 +58,15 @@ namespace Platformer.Mechanics
         {
             axis = 1;
         }
-
         public void TouchJump()
         {
             if (jumpState == JumpState.Grounded)
                 jumpState = JumpState.PrepareToJump;
             
         }
+        /// <summary>
+  
+        /// </summary>
         void Awake()
         {
             health = GetComponent<Health>();
