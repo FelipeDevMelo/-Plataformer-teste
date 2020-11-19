@@ -34,7 +34,7 @@ namespace Platformer.Mechanics
         /*internal new*/ public AudioSource audioSource;
         public Health health;
         public bool controlEnabled = true;
-
+        float axis;
         bool jump;
         Vector2 move;
         SpriteRenderer spriteRenderer;
@@ -42,7 +42,26 @@ namespace Platformer.Mechanics
         readonly PlatformerModel model = Simulation.GetModel<PlatformerModel>();
 
         public Bounds Bounds => collider2d.bounds;
+        public void TouchLeft()
+        {
+            axis=-1;
+        }
+        public void TouchUp()
+        {
+            
+            axis = 0;
+        }
+        public void TouchRight()
+        {
+            axis = 1;
+        }
 
+        public void TouchJump()
+        {
+            if (jumpState == JumpState.Grounded)
+                jumpState = JumpState.PrepareToJump;
+            
+        }
         void Awake()
         {
             health = GetComponent<Health>();
@@ -62,7 +81,7 @@ namespace Platformer.Mechanics
             }
             if (controlEnabled)
             {
-                move.x = Input.GetAxis("Horizontal");
+                move.x = axis;
                 if (jumpState == JumpState.Grounded && Input.GetButtonDown("Jump"))
                     jumpState = JumpState.PrepareToJump;
                 
@@ -133,7 +152,7 @@ namespace Platformer.Mechanics
         }
       
                 
-               
+    
 
 
             
@@ -141,6 +160,7 @@ namespace Platformer.Mechanics
        
         public enum JumpState
         {
+            
             Grounded,
             PrepareToJump,
             Jumping,
